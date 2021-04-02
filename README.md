@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @No6-create
+- 👀 I’m interested in test automation
+- 🌱 I’m currently learning robotframwork
